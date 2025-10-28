@@ -1,0 +1,7 @@
+CPU,Mode,Int,FP,ZIP,Memory
+Ryzen Z1 Extreme,Single Core,0.0406,1.3697,0.0025,0.2387
+Ryzen Z1 Extreme,Multi Core,0.04,0.1916,0.0233,0.0593
+Ryzen 5 5500,Single Core,0.0411,1.6502,0.0032,0.265
+Ryzen 5 5500,Multi Core,0.023,0.2656,0.0186,0.0602
+Intel i7 8705G,Single Core,0.0689,1.9515,0.0012,0.35
+Intel i7 8705G,Multi Core,0.035,0.5742,0.0141,0.1209

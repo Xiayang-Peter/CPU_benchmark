@@ -1,0 +1,11 @@
+Single Core Average of 10 time X 10**6 iterations
+Int:0.0406
+FP:1.3697
+ZIP:0.0025
+Memory:0.2387
+
+Multi Core Average of 10 time X 10**6 iterations
+Int:0.0400
+FP:0.1916
+ZIP:0.0233
+Memory:0.0593
